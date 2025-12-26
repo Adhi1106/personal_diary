@@ -18,6 +18,8 @@ index.html – diary page structure
 
 style.css – layout, styling, and typography
 
+soft-floral-pattern.png - Background image for the web page
+
 ## What I Learned
 - Structuring web pages using semantic HTML
 - Styling layouts with CSS
@@ -31,3 +33,4 @@ https://adhi1106.github.io/personal_diary/
 Adhira Praveen
 
 B.Tech AIML Student
+
